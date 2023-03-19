@@ -1,7 +1,6 @@
 {
-  "name": "hw_4.1",
+  "name": "hw_4.2",
   "version": "1.0.0",
-  "description": "",
   "main": "definitionHealth.js",
   "scripts": {
     "test": "jest --coverage",
@@ -28,5 +27,6 @@
   },
   "dependencies": {
     "core-js": "^3.28.0"
-  }
+  },
+  "description": ""
 }
